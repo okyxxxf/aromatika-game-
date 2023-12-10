@@ -1,2 +1,2 @@
-# aromatika-game-
+# aromatika-game
 Игра от ароматики с новым годом
